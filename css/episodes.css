@@ -1,0 +1,13 @@
+h1 {
+    align-content: center;
+    text-align: center;
+    color: #ffffff; !important;
+}
+
+.card {
+    /* Added */
+    float: none; /* Added */
+    /* Added */
+    margin: 0 auto 10px;
+}
+
